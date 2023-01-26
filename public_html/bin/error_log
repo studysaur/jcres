@@ -1,0 +1,25 @@
+[21-Nov-2018 04:37:17 UTC] PHP Notice:  Undefined variable: pdo in /home/studysaurs/public_html/jcres/class/user.php on line 61
+[21-Nov-2018 04:37:17 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/studysaurs/public_html/jcres/class/user.php on line 61
+[21-Nov-2018 04:39:04 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home/studysaurs/public_html/jcres/bin/newUser.php on line 13
+[21-Nov-2018 04:39:20 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home/studysaurs/public_html/jcres/bin/newUser.php on line 13
+[21-Nov-2018 04:56:54 UTC] PHP Parse error:  syntax error, unexpected '$pdo' (T_VARIABLE) in /home/studysaurs/public_html/jcres/bin/newUser.php on line 13
+[29-Nov-2018 03:47:59 UTC] PHP Notice:  Array to string conversion in /home/studysaurs/public_html/jcres/class/user.php on line 67
+[29-Nov-2018 03:51:54 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/studysaurs/public_html/jcres/class/user.php on line 74
+[29-Nov-2018 03:53:14 UTC] PHP Notice:  Use of undefined constant row - assumed 'row' in /home/studysaurs/public_html/jcres/class/user.php on line 65
+[29-Nov-2018 03:59:27 UTC] PHP Warning:  PDOStatement::setFetchMode(): SQLSTATE[HY000]: General error: fetch mode requires the colno argument in /home/studysaurs/public_html/jcres/class/user.php on line 64
+[29-Nov-2018 03:59:27 UTC] PHP Notice:  Undefined variable: row in /home/studysaurs/public_html/jcres/class/user.php on line 66
+[29-Nov-2018 04:23:34 UTC] PHP Fatal error:  Call to undefined function dean_sellArs() in /home/studysaurs/public_html/jcres/bin/newUser.php on line 14
+[04-Dec-2018 12:37:58 UTC] PHP Parse error:  syntax error, unexpected '$r' (T_VARIABLE) in /home/studysaurs/public_html/jcres/bin/newUser.php on line 19
+[11-Dec-2018 03:00:22 UTC] PHP Warning:  readfile(/home/studysaurs/public_html/data/quickform.css): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/bin/htmlQuickformBasic.php on line 29
+[11-Dec-2018 03:00:22 UTC] PHP Warning:  require_once(HTML/QuickForm2.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/bin/htmlQuickformBasic.php on line 46
+[11-Dec-2018 03:00:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'HTML/QuickForm2.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/studysaurs/public_html/jcres/bin/htmlQuickformBasic.php on line 46
+[11-Dec-2018 03:03:03 UTC] PHP Warning:  require_once(HTML/QuickForm2.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/bin/htmlQuickformBasic.php on line 46
+[11-Dec-2018 03:03:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'HTML/QuickForm2.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/studysaurs/public_html/jcres/bin/htmlQuickformBasic.php on line 46
+[20-Dec-2018 16:36:22 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/studysaurs/public_html/jcres/bin/newUser.php on line 2
+[20-Dec-2018 16:39:27 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/studysaurs/public_html/jcres/bin/newUser.php on line 8
+[20-Dec-2018 16:39:37 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/studysaurs/public_html/jcres/bin/newUser.php on line 8
+[20-Dec-2018 16:42:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/studysaurs/public_html/jcres/bin/newUser.php on line 14
+[20-Dec-2018 16:42:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/studysaurs/public_html/jcres/bin/newUser.php on line 14
+[20-Dec-2018 16:44:14 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/studysaurs/public_html/jcres/bin/newUser.php on line 14
+[20-Dec-2018 16:44:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/studysaurs/public_html/jcres/bin/newUser.php on line 16
+[14-Feb-2019 11:08:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/studysaurs/public_html/jcres/bin/newUser.php on line 16

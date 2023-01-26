@@ -1,0 +1,7 @@
+/* detailr.css */
+@media screen and (min-width: 680px){
+.detail-container {
+    display: grid;
+    grid-template-columns: 4em 2em 2em .5fr .6fr .3fr 2em 2em;
+    }
+}

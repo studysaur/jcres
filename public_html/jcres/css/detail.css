@@ -1,0 +1,114 @@
+/* detail.css
+ */
+ol.collection {
+	margin: 0px;
+	padding: 0px;
+}
+
+.past {background-color: red;}	
+.help {background-color: yellow;
+  color: black;}
+.good {background-color: green;}
+* {
+	box-sizing: border-box;
+}
+/* 2 column Card Layout */
+@media screen and (max-width: 55em) {
+	.collection-container {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 10px;
+	}
+	.detail {
+		border: 1px solid cyan;
+		border-radius: 3px;
+		padding: 10px;
+	}
+	/* Don't display first item, since it is 
+		Header info for tabular data */
+	.collection-container>li:first-child {
+		display: none;
+	}
+	.attribute::before {
+		content: attr(data-name);
+	}
+		/* Attribute name for first column, and attribute value for second column */
+	.attribute {
+		display: grid;
+		grid-template-columns: minmax(9em, 30%) 1fr;
+	}
+}
+	/* 1 column card Layout */
+@media screen and (max-width:30em) {
+	.collection-container {
+		display: grid;
+		grid-template-columns: 1fr;
+	}
+}
+
+	/* Tabular Layout */
+@media screen and (min-width: 65em) {
+	/* The maximum column width, that can wrap */
+
+	.sticky {
+		position: -webkit-sticky;
+		position: sticky;
+		top: 2em;
+		background-color: blue;
+	}
+	.attribute-container {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(var(--column-width-min), 1fr));
+	}
+	.vol-num {
+		--column-width-min: 2em;
+		--column-width-max: 4em;
+	} 
+	.time {
+		--column-width-min: 3em;
+	}
+	.date-day {
+		--column-width-min: 3em;
+	}
+	.start-end {
+		--column-width-min: 3em;
+	}
+	.other-info {
+		--column-width-min: 5em;
+	}
+	.loc-type {
+		--column-width-min: 5em;
+	}
+	.cont-phn {
+		--column-width-min: 5em;
+	}
+	.off {
+		--column-width-min: 10em;
+	}
+	
+	/* In order to maximize row lines, only display
+	one line for a cell */
+	.attribute {
+		border-right: .1rem solid gray;
+		border-bottom: .1rem solid gray;
+		padding: .1rem;
+		overflow: scroll;
+		white-space: nowrap;
+
+	}
+	.collection-container {
+		background-color: blue;
+	}
+	.detail-container:hover {
+		background-color: cyan;
+		color: blue;
+	}
+	.collection-container>.detail-container:first-child .attribute {
+		display: grid;
+		align-items: center;
+		justify-content: center;
+		text-overflow: initial;
+		overflow: auto;
+		white-space: normal;
+	}
+}

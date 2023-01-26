@@ -1,0 +1,54 @@
+This file is used to make notes of design structure!
+
+The index.php file is kept at the lower level.
+All php files that create pages or named pages are to be kept in the library
+All files that are called that are functions, css, or anything needed to make a page work, shared by mulitiple pages are to be kept in library/includes
+All files that are used by the html to be inserted into a page mostly graphics will be at library/pics.
+
+Menu’s 
+We need a multi level menu.
+First two levels are logged in or not logged in (general public, everyone sees this page)
+
+Under the logged in level.
+General user.  these menus will be common to all logged in users at all times
+    1 General user can browse a directory of other user information
+    2 Can edit some information about himself, such as telephone number’s and email address
+    3 See’s information on details and upcoming assignments
+    4 See’s information about his training.
+    
+Detail Co-ordinator
+    1 Can create a detail and edit information concerning the detail - Can un-assign a user from a detail
+    2 Can delete a detail.
+    
+Admin level
+    1 Will have access/views to all pages.  Can NOT edit training information.
+    
+Capt level 
+    1 Will have access to see all personnel assigned to him;
+        a including update details,
+        b un-assign people from a detail, 
+    2 views training information for people in his area
+    
+Trainer
+    Will be able to enter and create training information.  Note;  Admin can view only the trainer will be the only one to create/modify a training record.
+    
+Lieutenant level
+    Similar to Captain, but only sees information concerning personnel assigned to him, can unassign from a detail.
+    
+Sergeant Level
+    Similar to Captain, but limited to his personnel
+    
+General notes
+personnel will be assigned to a Division
+    1 Admin
+    2 Training
+    3 Detail
+    4 Patrol
+    5 Marine/ATV ????
+    6 Motor pool ????
+    
+Additionally personnel will be designated the following training status
+    1 N - New to the unit, Has not completed basic orientation training.  Can not volunteer for any detail
+    2 T - Has completed orientation training, has firearm, is not minimum standard certified, can only volunteer as a 2nd on a detail, can ride along ????
+    3 F - This person is minimum standard certified, but not FTO certified.  This person can volunteer for all details
+    4 C - This a Certified officer, has completed all training, and can do all details and patrols.

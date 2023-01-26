@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Serenji: localhost DEANS M1 MACBOOK",
+			"uri": "serenji://localhost/DEANS M1 MACBOOK"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay"
+	}
+}

@@ -1,0 +1,20 @@
+/* Log.css 
+ * Basic style for the log in page
+ */
+main {
+    width: 90%;
+    margin: auto;
+    align-items: center;
+}
+.height {
+    display: flex;
+    height: 80vh;
+    width: calc(90%);
+    background-image: url('/images/background-eagle-flag.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+form {
+    width: 100rem;
+    margin: auto;
+}

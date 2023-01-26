@@ -1,0 +1,45 @@
+[25-Mar-2016 00:18:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 40
+[25-Mar-2016 00:19:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 40
+[25-Mar-2016 01:10:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:11:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:12:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:15:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:15:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:19:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:26:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:28:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 01:28:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 02:04:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 02:06:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 02:06:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/studysaurs/public_html/jcres/lib/new_user.php on line 47
+[25-Mar-2016 02:53:40 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE), expecting ',' or ';' in /home/studysaurs/public_html/jcres/lib/new_user.php on line 60
+[25-Mar-2016 02:53:50 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE), expecting ',' or ';' in /home/studysaurs/public_html/jcres/lib/new_user.php on line 60
+[25-Mar-2016 02:53:52 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE), expecting ',' or ';' in /home/studysaurs/public_html/jcres/lib/new_user.php on line 60
+[25-Mar-2016 03:24:13 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE), expecting ',' or ';' in /home/studysaurs/public_html/jcres/lib/new_user.php on line 60
+[25-Mar-2016 03:24:19 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE), expecting ',' or ';' in /home/studysaurs/public_html/jcres/lib/new_user.php on line 60
+[25-Mar-2016 10:18:09 UTC] PHP Parse error:  syntax error, unexpected '$fn' (T_VARIABLE), expecting ',' or ';' in /home/studysaurs/public_html/jcres/lib/new_user.php on line 60
+[25-Mar-2016 14:47:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[25-Mar-2016 15:20:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[25-Mar-2016 15:20:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[25-Mar-2016 15:20:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[25-Mar-2016 15:20:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[26-Mar-2016 20:11:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[26-Mar-2016 20:11:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[26-Mar-2016 21:19:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[26-Mar-2016 21:19:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[27-Mar-2016 00:17:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/studysaurs/public_html/jcres/lib/new_user.php on line 103
+[27-Mar-2016 00:25:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/studysaurs/public_html/jcres/lib/new_user.php on line 99
+[27-Mar-2016 01:11:46 UTC] PHP Warning:  require_once(lib/user.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:11:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/user.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:13:21 UTC] PHP Warning:  require_once(lib/user.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:13:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/user.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:16:31 UTC] PHP Warning:  require_once(lib/user.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:16:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/user.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:27:04 UTC] PHP Warning:  require_once(lib/user.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:27:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/user.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:29:28 UTC] PHP Warning:  require_once(lib/user.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:29:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/user.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[27-Mar-2016 01:41:50 UTC] PHP Warning:  require_once(../jcres_connect.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/lib/startsession.php on line 2
+[27-Mar-2016 01:41:50 UTC] PHP Fatal error:  require_once(): Failed opening required '../jcres_connect.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/studysaurs/public_html/jcres/lib/startsession.php on line 2
+[04-Apr-2016 16:21:57 UTC] PHP Warning:  require_once(lib/user.php): failed to open stream: No such file or directory in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2
+[04-Apr-2016 16:21:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/user.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/studysaurs/public_html/jcres/lib/new_user.php on line 2

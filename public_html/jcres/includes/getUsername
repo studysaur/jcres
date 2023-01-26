@@ -1,0 +1,10 @@
+//$username = $_SESSION['username'];
+$q  ='SELECT * FROM users WHERE username = :username';
+   $stmt = $pdo->prepare($q);
+   $stmt->bindParam(':username', $username);
+   $r=$stmt->execute();
+   if ($r){
+   // echo 'we have r';
+   $stmt->setFetchMode(PDO::FETCH_CLASS, 'Aux\Entity\User');
+   $user = $stmt->fetch();
+   }
